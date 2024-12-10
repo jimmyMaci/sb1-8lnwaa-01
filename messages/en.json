@@ -1,0 +1,27 @@
+{
+  "navigation": {
+    "about": "About Us",
+    "program": "Program",
+    "events": "Events",
+    "press": "Press",
+    "join": "Join Us",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Together for a citizen-friendly Germany",
+    "subtitle": "The Citizens' Friendly Party is committed to a transparent, just, and innovative future. Join us in shaping the future of Germany."
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Meet us in person and discuss the future of Germany with us. Here you can find all current events of the Citizens' Friendly Party.",
+    "calendar": "Event Calendar",
+    "upcoming": "Upcoming Events",
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "links": "Links",
+    "legal": "Legal",
+    "contact": "Contact",
+    "rights": "© {year} Citizens' Friendly Party. All rights reserved."
+  }
+}

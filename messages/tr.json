@@ -1,0 +1,27 @@
+{
+  "navigation": {
+    "about": "Hakkımızda",
+    "program": "Program",
+    "events": "Etkinlikler",
+    "press": "Basın",
+    "join": "Üye Ol",
+    "login": "Giriş"
+  },
+  "hero": {
+    "title": "Vatandaş dostu bir Almanya için birlikte",
+    "subtitle": "Vatandaş Dostu Parti, şeffaf, adil ve yenilikçi bir gelecek için çalışıyor. Almanya'nın geleceğini bizimle birlikte şekillendirin."
+  },
+  "events": {
+    "title": "Etkinlikler",
+    "subtitle": "Bizimle şahsen tanışın ve Almanya'nın geleceğini tartışın. Burada Vatandaş Dostu Parti'nin tüm güncel etkinliklerini bulabilirsiniz.",
+    "calendar": "Etkinlik Takvimi",
+    "upcoming": "Yaklaşan Etkinlikler",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "footer": {
+    "links": "Bağlantılar",
+    "legal": "Yasal",
+    "contact": "İletişim",
+    "rights": "© {year} Vatandaş Dostu Parti. Tüm hakları saklıdır."
+  }
+}

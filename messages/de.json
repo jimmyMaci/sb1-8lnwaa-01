@@ -1,0 +1,27 @@
+{
+  "navigation": {
+    "about": "Über Uns",
+    "program": "Programm",
+    "events": "Veranstaltungen",
+    "press": "Presse",
+    "join": "Mitglied werden",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Gemeinsam für ein bürgerfreundliches Deutschland",
+    "subtitle": "Die BürgerFreundlichePartei setzt sich für eine transparente, gerechte und innovative Zukunft ein. Gestalten Sie mit uns gemeinsam die Zukunft Deutschlands."
+  },
+  "events": {
+    "title": "Veranstaltungen",
+    "subtitle": "Treffen Sie uns persönlich und diskutieren Sie mit uns über die Zukunft Deutschlands. Hier finden Sie alle aktuellen Veranstaltungen der BürgerFreundlichePartei.",
+    "calendar": "Veranstaltungskalender",
+    "upcoming": "Kommende Veranstaltungen",
+    "learnMore": "Mehr erfahren"
+  },
+  "footer": {
+    "links": "Links",
+    "legal": "Rechtliches",
+    "contact": "Kontakt",
+    "rights": "© {year} BürgerFreundlichePartei. Alle Rechte vorbehalten."
+  }
+}
